@@ -15,8 +15,8 @@ Hello! I'm Priyanshi Bajiya , a third-year B.Tech student majoring in Artificial
 - **Tools**: Git, GitHub, VS Code
 
 ## Connect with Me
-- https://www.linkedin.com/in/priyanshi-bajiya
-- 
+- LinkedIn: https://www.linkedin.com/in/priyanshi-bajiya
+  
 ## How to Reach Me
 Feel free to reach out to me via priyanshibajiya76@gmail.com , if you have any questions or want to collaborate on a project.
 
